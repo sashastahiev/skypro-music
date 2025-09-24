@@ -6,7 +6,7 @@
       <div class="playlist-title__col col03">Альбом</div>
       <div class="playlist-title__col col04">
         <svg class="playlist-title__svg">
-          <use xlink:href="./img/icon/sprite.svg#icon-watch"></use>
+          <use xlink:href="/img/icon/sprite.svg#icon-watch"></use>
         </svg>
       </div>
     </div>
@@ -16,7 +16,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -33,7 +33,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">4:44</span>
           </div>
@@ -45,7 +45,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -62,7 +62,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">2:22</span>
           </div>
@@ -74,7 +74,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -91,7 +91,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">2:22</span>
           </div>
@@ -103,7 +103,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -120,7 +120,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">4:12</span>
           </div>
@@ -132,7 +132,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -149,7 +149,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">2:54</span>
           </div>
@@ -161,7 +161,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -178,7 +178,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">5:20</span>
           </div>
@@ -190,7 +190,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -209,7 +209,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">3:41</span>
           </div>
@@ -221,7 +221,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -238,7 +238,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -250,7 +250,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -267,7 +267,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -278,7 +278,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -295,7 +295,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -306,7 +306,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -323,7 +323,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -334,7 +334,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -351,7 +351,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -362,7 +362,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -379,7 +379,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -390,7 +390,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -407,7 +407,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">1:48</span>
           </div>
@@ -419,7 +419,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -436,7 +436,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">3:32</span>
           </div>
@@ -448,7 +448,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -465,7 +465,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text">3:36</span>
           </div>
@@ -477,7 +477,7 @@
           <div class="track__title">
             <div class="track__title-image">
               <svg class="track__title-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
               </svg>
             </div>
             <div class="track__title-text">
@@ -494,7 +494,7 @@
           </div>
           <div class="track__time">
             <svg class="track__time-svg">
-              <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+              <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
             </svg>
             <span class="track__time-text"></span>
           </div>
@@ -505,335 +505,17 @@
 </template>
 
 <style scoped>
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-*:before,
-*:after {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-a,
-a:visited {
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  cursor: pointer;
-}
-
-button,
-._btn {
-  cursor: pointer;
-}
-
-ul li {
-  list-style: none;
-}
-
-html,
-body {
-  width: 100%;
-  height: 100%;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
-
-.wrapper {
-  width: 100%;
-  min-height: 100%;
-  overflow: hidden;
-  background-color: #383838;
-}
-
-.container {
-  max-width: 1920px;
-  height: 100vh;
-  margin: 0 auto;
-  position: relative;
-  background-color: #181818;
-}
-
-._btn-text:hover {
-  border-color: #d9b6ff;
-  color: #d9b6ff;
-  cursor: pointer;
-}
-
-._btn-icon:hover svg {
-  fill: transparent;
-  stroke: #acacac;
-  cursor: pointer;
-}
-
-._btn-text:active {
-  border-color: #ad61ff;
-  color: #ad61ff;
-  cursor: pointer;
-}
-
-._btn-icon:active svg {
-  fill: transparent;
-  stroke: #ffffff;
-  cursor: pointer;
-}
-
-._btn-icon:active .track-play__like-svg,
-._btn-icon:active .track-play__dislike-svg {
-  fill: #696969;
-  stroke: #ffffff;
-  cursor: pointer;
-}
-
-.main {
-  -webkit-box-flex: 1;
-  -ms-flex: 1 1 auto;
-  flex: 1 1 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-}
-
-.main__nav {
-  width: 244px;
-  background-color: #181818;
-  padding: 20px 0 20px 36px;
-}
-
-.main__centerblock {
-  width: auto;
-  -webkit-box-flex: 3;
-  -ms-flex-positive: 3;
-  flex-grow: 3;
-  padding: 20px 40px 20px 111px;
-}
-
-.main__sidebar {
-  max-width: 418px;
-  padding: 20px 90px 20px 78px;
-}
-
-.nav__logo {
-  width: 113.33px;
-  height: 43px;
-  padding: 13px 0 13px 0;
-  background-color: transparent;
-  margin-bottom: 20px;
-}
-
-.nav__burger {
-  width: 20px;
-  height: 36px;
-  padding: 13px 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-}
-
-.nav__menu {
-  display: block;
-  visibility: visible;
-}
-
-.logo__image {
-  width: 113.33px;
-  height: 17px;
-  color: #181818;
-}
-
-.burger__line {
-  display: inline-block;
-  width: 100%;
-  height: 1px;
-  background-color: #d3d3d3;
-}
-
-.menu__list {
-  padding: 18px 0 10px 0;
-}
-
-.menu__item {
-  padding: 5px 0;
-  margin-bottom: 16px;
-}
-
-.menu__link {
-  color: #ffffff;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.centerblock__search {
-  width: 100%;
-  border-bottom: 1px solid #4e4e4e;
-  margin-bottom: 51px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.centerblock__h2 {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 64px;
-  line-height: 72px;
-  letter-spacing: -0.8px;
-  margin-bottom: 45px;
-}
-
-.centerblock__filter {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  margin-bottom: 51px;
-}
-
 .centerblock__content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
-}
-
-.search__svg {
-  width: 17px;
-  height: 17px;
-  margin-right: 5px;
-  stroke: #ffffff;
-  fill: transparent;
-}
-
-.search__text {
-  -webkit-box-flex: 100;
-  -ms-flex-positive: 100;
-  flex-grow: 100;
-  background-color: transparent;
-  border: none;
-  padding: 13px 10px 14px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-}
-
-.search__text::-webkit-input-placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.search__text:-ms-input-placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.search__text::-ms-input-placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.search__text::placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.filter__title {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  margin-right: 15px;
-}
-
-.filter__button {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  border: 1px solid #ffffff;
-  border-radius: 60px;
-  padding: 6px 20px;
-}
-
-.filter__button:not(:last-child) {
-  margin-right: 10px;
 }
 
 .content__title {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
   justify-content: space-between;
   margin-bottom: 24px;
-}
-
-.content__playlist {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  overflow-y: auto;
 }
 
 .playlist-title__col {
@@ -853,21 +535,10 @@ body {
   stroke: #696969;
 }
 
-.col01 {
-  width: 447px;
-}
-
-.col02 {
-  width: 321px;
-}
-
-.col03 {
-  width: 245px;
-}
-
-.col04 {
-  width: 60px;
-  text-align: end;
+.content__playlist {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
 }
 
 .playlist__item {
@@ -877,31 +548,15 @@ body {
 }
 
 .playlist__track {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
   justify-content: space-between;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
 }
 
 .track__title {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
   width: 447px;
 }
@@ -911,14 +566,8 @@ body {
   height: 51px;
   padding: 16px;
   background: #313131;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
   margin-right: 17px;
 }
@@ -948,11 +597,7 @@ body {
 
 .track__author {
   width: 321px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
   justify-content: flex-start;
 }
 
@@ -977,6 +622,11 @@ body {
   color: #696969;
 }
 
+.track__time {
+  display: flex;
+  align-items: center;
+}
+
 .track__time-svg {
   width: 14px;
   height: 12px;
@@ -992,387 +642,5 @@ body {
   line-height: 24px;
   text-align: right;
   color: #696969;
-}
-
-.sidebar__personal {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: end;
-  -ms-flex-pack: end;
-  justify-content: flex-end;
-  padding: 12px 0 15px 0;
-}
-
-.sidebar__personal-name {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-  margin-right: 16px;
-}
-
-.sidebar__icon {
-  width: 43px;
-  height: 43px;
-  background-color: #313131;
-  border-radius: 50%;
-  cursor: pointer;
-}
-
-.sidebar__block {
-  height: 100%;
-  padding: 240px 0 0 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-}
-
-.sidebar__list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.sidebar__item {
-  width: 250px;
-  height: 150px;
-}
-
-.sidebar__item:not(:last-child) {
-  margin-bottom: 30px;
-}
-
-.sidebar__link {
-  width: 100%;
-  height: 100%;
-}
-
-.sidebar__img {
-  width: 100%;
-  height: auto;
-}
-
-.bar {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background: rgba(28, 28, 28, 0.5);
-}
-
-.bar__content {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-}
-
-.bar__player-progress {
-  width: 100%;
-  height: 5px;
-  background: #2e2e2e;
-}
-
-.bar__player-block {
-  height: 73px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-}
-
-.bar__player {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-}
-
-.bar__volume-block {
-  width: auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  padding: 0 92px 0 0;
-}
-
-.player__controls {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  padding: 0 27px 0 31px;
-}
-
-.player__btn-prev,
-.player__btn-play,
-.player__btn-next,
-.player__btn-repeat,
-.player__btn-shuffle {
-  padding: 5px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.player__btn-prev {
-  margin-right: 23px;
-}
-
-.player__btn-prev-svg {
-  width: 15px;
-  height: 14px;
-}
-
-.player__btn-play {
-  margin-right: 23px;
-}
-
-.player__btn-play-svg {
-  width: 22px;
-  height: 20px;
-  fill: #d9d9d9;
-}
-
-.player__btn-next {
-  margin-right: 28px;
-  fill: #a53939;
-}
-
-.player__btn-next-svg {
-  width: 15px;
-  height: 14px;
-  fill: inherit;
-  stroke: #d9d9d9;
-}
-
-.player__btn-repeat {
-  margin-right: 24px;
-}
-
-.player__btn-repeat-svg {
-  width: 18px;
-  height: 12px;
-  fill: transparent;
-  stroke: #696969;
-}
-
-.player__btn-shuffle {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.player__btn-shuffle-svg {
-  width: 19px;
-  height: 12px;
-  fill: transparent;
-  stroke: #696969;
-}
-
-.player__track-play {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-}
-
-.track-play__contain {
-  width: auto;
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: auto 1fr;
-  grid-template-columns: auto 1fr;
-  grid-template-areas: 'image author' 'image album';
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.track-play__image {
-  width: 51px;
-  height: 51px;
-  background-color: #313131;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  margin-right: 12px;
-  grid-row: 1;
-  -ms-grid-row-span: 2;
-  grid-column: 1;
-  grid-area: image;
-}
-
-.track-play__svg {
-  width: 18px;
-  height: 17px;
-  fill: transparent;
-  stroke: #4e4e4e;
-}
-
-.track-play__author {
-  grid-row: 1;
-  grid-column: 2;
-  grid-area: author;
-  min-width: 49px;
-}
-
-.track-play__author-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-  white-space: nowrap;
-}
-
-.track-play__album {
-  grid-row: 2;
-  grid-column: 2;
-  grid-area: album;
-  min-width: 49px;
-}
-
-.track-play__album-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 13px;
-  line-height: 24px;
-  color: #ffffff;
-}
-
-.track-play__like-dis {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  margin-left: 26%;
-}
-
-.track-play__like,
-.track-play__dislike {
-  padding: 5px;
-}
-
-.track-play__like-svg {
-  width: 14px;
-  height: 12px;
-  fill: transparent;
-  stroke: #696969;
-}
-
-.track-play__dislike {
-  margin-left: 28.5px;
-}
-
-.track-play__dislike-svg {
-  width: 14.34px;
-  height: 13px;
-  fill: transparent;
-  stroke: #696969;
-}
-
-.volume__content {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: end;
-  -ms-flex-pack: end;
-  justify-content: end;
-}
-
-.volume__image {
-  width: 13px;
-  height: 18px;
-  margin-right: 17px;
-}
-
-.volume__svg {
-  width: 13px;
-  height: 18px;
-  fill: transparent;
-}
-
-.volume__progress {
-  width: 109px;
-}
-
-.volume__progress-line {
-  width: 109px;
 }
 </style>

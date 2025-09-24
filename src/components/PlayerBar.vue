@@ -7,27 +7,27 @@
           <div class="player__controls">
             <div class="player__btn-prev">
               <svg class="player__btn-prev-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-prev"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-prev"></use>
               </svg>
             </div>
             <div class="player__btn-play _btn">
               <svg class="player__btn-play-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-play"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-play"></use>
               </svg>
             </div>
             <div class="player__btn-next">
               <svg class="player__btn-next-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-next"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-next"></use>
               </svg>
             </div>
             <div class="player__btn-repeat _btn-icon">
               <svg class="player__btn-repeat-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-repeat"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-repeat"></use>
               </svg>
             </div>
             <div class="player__btn-shuffle _btn-icon">
               <svg class="player__btn-shuffle-svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-shuffle"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-shuffle"></use>
               </svg>
             </div>
           </div>
@@ -36,7 +36,7 @@
             <div class="track-play__contain">
               <div class="track-play__image">
                 <svg class="track-play__svg">
-                  <use xlink:href="./img/icon/sprite.svg#icon-note"></use>
+                  <use xlink:href="/img/icon/sprite.svg#icon-note"></use>
                 </svg>
               </div>
               <div class="track-play__author">
@@ -50,12 +50,12 @@
             <div class="track-play__like-dis">
               <div class="track-play__like _btn-icon">
                 <svg class="track-play__like-svg">
-                  <use xlink:href="./img/icon/sprite.svg#icon-like"></use>
+                  <use xlink:href="/img/icon/sprite.svg#icon-like"></use>
                 </svg>
               </div>
               <div class="track-play__dislike _btn-icon">
                 <svg class="track-play__dislike-svg">
-                  <use xlink:href="./img/icon/sprite.svg#icon-dislike"></use>
+                  <use xlink:href="/img/icon/sprite.svg#icon-dislike"></use>
                 </svg>
               </div>
             </div>
@@ -65,7 +65,7 @@
           <div class="volume__content">
             <div class="volume__image">
               <svg class="volume__svg">
-                <use xlink:href="./img/icon/sprite.svg#icon-volume"></use>
+                <use xlink:href="/img/icon/sprite.svg#icon-volume"></use>
               </svg>
             </div>
             <div class="volume__progress _btn">
@@ -79,576 +79,6 @@
 </template>
 
 <style scoped>
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-*:before,
-*:after {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-a,
-a:visited {
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  cursor: pointer;
-}
-
-button,
-._btn {
-  cursor: pointer;
-}
-
-ul li {
-  list-style: none;
-}
-
-html,
-body {
-  width: 100%;
-  height: 100%;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
-
-.wrapper {
-  width: 100%;
-  min-height: 100%;
-  overflow: hidden;
-  background-color: #383838;
-}
-
-.container {
-  max-width: 1920px;
-  height: 100vh;
-  margin: 0 auto;
-  position: relative;
-  background-color: #181818;
-}
-
-._btn-text:hover {
-  border-color: #d9b6ff;
-  color: #d9b6ff;
-  cursor: pointer;
-}
-
-._btn-icon:hover svg {
-  fill: transparent;
-  stroke: #acacac;
-  cursor: pointer;
-}
-
-._btn-text:active {
-  border-color: #ad61ff;
-  color: #ad61ff;
-  cursor: pointer;
-}
-
-._btn-icon:active svg {
-  fill: transparent;
-  stroke: #ffffff;
-  cursor: pointer;
-}
-
-._btn-icon:active .track-play__like-svg,
-._btn-icon:active .track-play__dislike-svg {
-  fill: #696969;
-  stroke: #ffffff;
-  cursor: pointer;
-}
-
-.main {
-  -webkit-box-flex: 1;
-  -ms-flex: 1 1 auto;
-  flex: 1 1 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-}
-
-.main__nav {
-  width: 244px;
-  background-color: #181818;
-  padding: 20px 0 20px 36px;
-}
-
-.main__centerblock {
-  width: auto;
-  -webkit-box-flex: 3;
-  -ms-flex-positive: 3;
-  flex-grow: 3;
-  padding: 20px 40px 20px 111px;
-}
-
-.main__sidebar {
-  max-width: 418px;
-  padding: 20px 90px 20px 78px;
-}
-
-.nav__logo {
-  width: 113.33px;
-  height: 43px;
-  padding: 13px 0 13px 0;
-  background-color: transparent;
-  margin-bottom: 20px;
-}
-
-.nav__burger {
-  width: 20px;
-  height: 36px;
-  padding: 13px 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-}
-
-.nav__menu {
-  display: block;
-  visibility: visible;
-}
-
-.logo__image {
-  width: 113.33px;
-  height: 17px;
-  color: #181818;
-}
-
-.burger__line {
-  display: inline-block;
-  width: 100%;
-  height: 1px;
-  background-color: #d3d3d3;
-}
-
-.menu__list {
-  padding: 18px 0 10px 0;
-}
-
-.menu__item {
-  padding: 5px 0;
-  margin-bottom: 16px;
-}
-
-.menu__link {
-  color: #ffffff;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.centerblock__search {
-  width: 100%;
-  border-bottom: 1px solid #4e4e4e;
-  margin-bottom: 51px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.centerblock__h2 {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 64px;
-  line-height: 72px;
-  letter-spacing: -0.8px;
-  margin-bottom: 45px;
-}
-
-.centerblock__filter {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  margin-bottom: 51px;
-}
-
-.centerblock__content {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-}
-
-.search__svg {
-  width: 17px;
-  height: 17px;
-  margin-right: 5px;
-  stroke: #ffffff;
-  fill: transparent;
-}
-
-.search__text {
-  -webkit-box-flex: 100;
-  -ms-flex-positive: 100;
-  flex-grow: 100;
-  background-color: transparent;
-  border: none;
-  padding: 13px 10px 14px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-}
-
-.search__text::-webkit-input-placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.search__text:-ms-input-placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.search__text::-ms-input-placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.search__text::placeholder {
-  background-color: transparent;
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.filter__title {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  margin-right: 15px;
-}
-
-.filter__button {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  border: 1px solid #ffffff;
-  border-radius: 60px;
-  padding: 6px 20px;
-}
-
-.filter__button:not(:last-child) {
-  margin-right: 10px;
-}
-
-.content__title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  margin-bottom: 24px;
-}
-
-.content__playlist {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  overflow-y: auto;
-}
-
-.playlist-title__col {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 2px;
-  color: #696969;
-  text-transform: uppercase;
-}
-
-.playlist-title__svg {
-  width: 12px;
-  height: 12px;
-  fill: transparent;
-  stroke: #696969;
-}
-
-.col01 {
-  width: 447px;
-}
-
-.col02 {
-  width: 321px;
-}
-
-.col03 {
-  width: 245px;
-}
-
-.col04 {
-  width: 60px;
-  text-align: end;
-}
-
-.playlist__item {
-  width: 100%;
-  display: block;
-  margin-bottom: 12px;
-}
-
-.playlist__track {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.track__title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  width: 447px;
-}
-
-.track__title-image {
-  width: 51px;
-  height: 51px;
-  padding: 16px;
-  background: #313131;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  margin-right: 17px;
-}
-
-.track__title-svg {
-  width: 18px;
-  height: 17px;
-  fill: transparent;
-  stroke: #4e4e4e;
-}
-
-.track__title-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-}
-
-.track__title-span {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #4e4e4e;
-}
-
-.track__author {
-  width: 321px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-}
-
-.track__author-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-  text-align: left;
-}
-
-.track__album {
-  width: 245px;
-}
-
-.track__album-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #696969;
-}
-
-.track__time-svg {
-  width: 14px;
-  height: 12px;
-  margin-right: 17px;
-  fill: transparent;
-  stroke: #696969;
-}
-
-.track__time-text {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  text-align: right;
-  color: #696969;
-}
-
-.sidebar__personal {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: end;
-  -ms-flex-pack: end;
-  justify-content: flex-end;
-  padding: 12px 0 15px 0;
-}
-
-.sidebar__personal-name {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-  margin-right: 16px;
-}
-
-.sidebar__icon {
-  width: 43px;
-  height: 43px;
-  background-color: #313131;
-  border-radius: 50%;
-  cursor: pointer;
-}
-
-.sidebar__block {
-  height: 100%;
-  padding: 240px 0 0 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-}
-
-.sidebar__list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.sidebar__item {
-  width: 250px;
-  height: 150px;
-}
-
-.sidebar__item:not(:last-child) {
-  margin-bottom: 30px;
-}
-
-.sidebar__link {
-  width: 100%;
-  height: 100%;
-}
-
-.sidebar__img {
-  width: 100%;
-  height: auto;
-}
-
 .bar {
   position: absolute;
   bottom: 0;
@@ -658,12 +88,7 @@ body {
 }
 
 .bar__content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
 }
 
@@ -675,71 +100,28 @@ body {
 
 .bar__player-block {
   height: 73px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
   justify-content: space-between;
 }
 
 .bar__player {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
   justify-content: flex-start;
 }
 
-.bar__volume-block {
-  width: auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  padding: 0 92px 0 0;
-}
-
 .player__controls {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
   padding: 0 27px 0 31px;
 }
 
-.player__btn-prev,
-.player__btn-play,
-.player__btn-next,
-.player__btn-repeat,
-.player__btn-shuffle {
-  padding: 5px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
 .player__btn-prev {
+  padding: 5px;
+  display: flex;
+  align-items: center;
   margin-right: 23px;
 }
 
@@ -749,6 +131,9 @@ body {
 }
 
 .player__btn-play {
+  padding: 5px;
+  display: flex;
+  align-items: center;
   margin-right: 23px;
 }
 
@@ -759,6 +144,9 @@ body {
 }
 
 .player__btn-next {
+  padding: 5px;
+  display: flex;
+  align-items: center;
   margin-right: 28px;
   fill: #a53939;
 }
@@ -771,6 +159,9 @@ body {
 }
 
 .player__btn-repeat {
+  padding: 5px;
+  display: flex;
+  align-items: center;
   margin-right: 24px;
 }
 
@@ -782,11 +173,8 @@ body {
 }
 
 .player__btn-shuffle {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  padding: 5px;
   display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
 }
 
@@ -798,24 +186,15 @@ body {
 }
 
 .player__track-play {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
 }
 
 .track-play__contain {
   width: auto;
-  display: -ms-grid;
   display: grid;
-  -ms-grid-columns: auto 1fr;
   grid-template-columns: auto 1fr;
-  grid-template-areas: 'image author' 'image album';
-  -webkit-box-align: center;
-  -ms-flex-align: center;
+  grid-template-areas: "image author" "image album";
   align-items: center;
 }
 
@@ -823,18 +202,11 @@ body {
   width: 51px;
   height: 51px;
   background-color: #313131;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
   margin-right: 12px;
-  grid-row: 1;
-  -ms-grid-row-span: 2;
+  grid-row: span 2 / span 2;
   grid-column: 1;
   grid-area: image;
 }
@@ -878,21 +250,13 @@ body {
 }
 
 .track-play__like-dis {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
   margin-left: 26%;
 }
 
-.track-play__like,
-.track-play__dislike {
+.track-play__like {
   padding: 5px;
 }
 
@@ -904,6 +268,7 @@ body {
 }
 
 .track-play__dislike {
+  padding: 5px;
   margin-left: 28.5px;
 }
 
@@ -914,19 +279,17 @@ body {
   stroke: #696969;
 }
 
-.volume__content {
-  display: -webkit-box;
-  display: -ms-flexbox;
+.bar__volume-block {
+  width: auto;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
-  -webkit-box-pack: end;
-  -ms-flex-pack: end;
+  padding: 0 92px 0 0;
+}
+
+.volume__content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
   justify-content: end;
 }
 
